@@ -1,7 +1,5 @@
 
-Process name: com.ea.gp.odessa, Pid: 17593
 
-Base Address of libUE4.so Found At 7857886000
 UWorld: 7860c3c678 | World: 77f38cf560 | Name: SIS@O@Xm~q{]~e~~m@Kjkpmv~sR~k|w
 Level: 77f17b1bc0 | Name: _j}|f|{ja{Cjyjc
 ActorList: 77a4f85600, ActorCount: 153
