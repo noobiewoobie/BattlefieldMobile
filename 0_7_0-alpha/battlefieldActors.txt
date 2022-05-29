@@ -1,8 +1,8 @@
 
 
-UWorld: 7860c3c678 | World: 77f38cf560 | Name: SIS@O@Xm~q{]~e~~m@Kjkpmv~sR~k|w
-Level: 77f17b1bc0 | Name: _j}|f|{ja{Cjyjc
-ActorList: 77a4f85600, ActorCount: 153
+
+
+ActorCount: 153
 
 Id: 0, Addr: 7874070400, Actor: @KX`}ck\j{{fah|
 Id: 1, Addr: 77ecfa2ec0, Actor: Dfqjw
