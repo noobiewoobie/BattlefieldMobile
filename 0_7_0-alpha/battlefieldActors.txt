@@ -1,0 +1,162 @@
+
+Process name: com.ea.gp.odessa, Pid: 17593
+
+Base Address of libUE4.so Found At 7857886000
+UWorld: 7860c3c678 | World: 77f38cf560 | Name: SIS@O@Xm~q{]~e~~m@Kjkpmv~sR~k|w
+Level: 77f17b1bc0 | Name: _j}|f|{ja{Cjyjc
+ActorList: 77a4f85600, ActorCount: 153
+
+Id: 0, Addr: 7874070400, Actor: @KX`}ck\j{{fah|
+Id: 1, Addr: 77ecfa2ec0, Actor: Dfqjw
+Id: 2, Addr: 77f0c50d00, Actor: Dfqjw
+Id: 3, Addr: 77f2fe6500, Actor: Pqruax`D|mg}wgB{xayq
+Id: 4, Addr: 77b83debc0, Actor: Duf`}wxqQbqz`Yuzusqf
+Id: 5, Addr: 77bc84e830, Actor: HjfnyjJhdy
+Id: 6, Addr: 78733040c0, Actor: UGHXSG{vnreTxycex{{reHT
+Id: 7, Addr: 7826114030, Actor: XJEU^Jv{chY{wh{W{t{}hEY
+Id: 8, Addr: 7826b35160, Actor: HjfnyjJhdy
+Id: 9, Addr: 77e52ac080, Actor: HjfnyjJhdy
+Id: 10, Addr: 77f1b78100, Actor: HjfnyjJhdy
+Id: 11, Addr: 77f1b7e830, Actor: HjfnyjJhdy
+Id: 12, Addr: 7873f2e040, Actor: HjfnyjJhdy
+Id: 13, Addr: 77e1209a80, Actor: JAMPA
+Id: 14, Addr: 78244310f0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 15, Addr: 7824f265f0, Actor: jxwglgFDAFMoIEM{\I\MjI[Mw|]\GZAIDeI\K@wk
+Id: 16, Addr: 77b152ee00, Actor: [IFI|kjpjm|wmXl}pvXzmvkFZ
+Id: 17, Addr: 77d8d313c0, Actor: lQDp}
+Id: 18, Addr: 77f0eb2500, Actor: X{vvsinsyiHjvsy{nsut[ynuh
+Id: 19, Addr: 77bbb8a4c0, Actor: guzjajGO@FQLS@hDKDB@WzqPQJWLDIhDQFMzf
+Id: 20, Addr: 77cc63ac00, Actor: M_P\{n{\v|{jbPL
+Id: 21, Addr: 77cc630780, Actor: _}ymhAmbmki~
+Id: 22, Addr: 77c7d66500, Actor: Uyl{pUw|q~q{ylqwvUyvy}j
+Id: 23, Addr: 77b5ca9e00, Actor: V]]|jmklzmpvwTxwx~|kXzmvk
+Id: 24, Addr: 77b416b000, Actor: SN]{wUxpynsl^v}{nIn
+Id: 25, Addr: 77c0c3fab0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 26, Addr: 0
+Id: 27, Addr: 0
+Id: 28, Addr: 0
+Id: 29, Addr: 0
+Id: 30, Addr: 0
+Id: 31, Addr: 7825eb30d0, Actor: R@O_TSxqbqsdubOS
+Id: 32, Addr: 77b2ae9a00, Actor: UGHVddvb{cE~q{rHQ%'''HT
+Id: 33, Addr: 77b2ae7a20, Actor: SANYpuvdNA##'NR
+Id: 34, Addr: 77c29e3990, Actor: YKD_~kwtbzyw~DS~zwosXizo~DX
+Id: 35, Addr: 7833ee9ba0, Actor: R@OVbqwWbu~qtuOS
+Id: 36, Addr: 77b2ae5a40, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 37, Addr: 77b7215600, Actor: ^LC[}x{yh]hsnCTy}pht_n}hyC_
+Id: 38, Addr: 77c0c360a0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 39, Addr: 0
+Id: 40, Addr: 77ad6cf010, Actor: PBM]VB~skw`AfsfwMQ
+Id: 41, Addr: 77e1f730d0, Actor: R@O_TSxqbqsdubOS
+Id: 42, Addr: 77b10d60a0, Actor: [IFJwpi|kKpu|F**!K|zvwFZ
+Id: 43, Addr: 77b10d5a40, Actor: SANYpuvdNA##'NR
+Id: 44, Addr: 77b10d9a00, Actor: _MBYxmqrd|qxBNmriitszYorsxB^
+Id: 45, Addr: 77ef0ed260, Actor: R@OVbqwWbu~qtuOS
+Id: 46, Addr: 77b10d3a60, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 47, Addr: 77b721ab00, Actor: PBM]VB~skw`AfsfwMQ
+Id: 48, Addr: 77b610c590, Actor: PBM]VB~skw`AfsfwMQ
+Id: 49, Addr: 77bafc30d0, Actor: R@O_TSxqbqsdubOS
+Id: 50, Addr: 786e06a6c0, Actor: M_P\BHP__=???PL
+Id: 51, Addr: 77b11e9a00, Actor: SANYpuvdNA##'NR
+Id: 52, Addr: 77b10d3400, Actor: ZHGJw{s}lTymv{p}jGKUYOG[
+Id: 53, Addr: 77c61d0080, Actor: R@OVbqwWbu~qtuOS
+Id: 54, Addr: 77b0b74d80, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 55, Addr: 0
+Id: 56, Addr: 0
+Id: 57, Addr: 0
+Id: 58, Addr: 0
+Id: 59, Addr: 0
+Id: 60, Addr: 0
+Id: 61, Addr: 77b1fc3b70, Actor: PBM]VB~skw`AfsfwMQ
+Id: 62, Addr: 77a65f9b10, Actor: XJE]{~}n[ynuhE[wwuYh{nEY
+Id: 63, Addr: 77ca42f010, Actor: R@O_TSxqbqsdubOS
+Id: 64, Addr: 77f0921420, Actor: O]RA@JRA^LYRN
+Id: 65, Addr: 77e1e1ad20, Actor: SANYpuvdNA##'NR
+Id: 66, Addr: 77b0b97910, Actor: [IF]|iuv`x{u|FXttvZkxm|FZ
+Id: 67, Addr: 77cae41be0, Actor: R@OVbqwWbu~qtuOS
+Id: 68, Addr: 77b1290dc0, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 69, Addr: 77a65fe570, Actor: PBM]VB~skw`AfsfwMQ
+Id: 70, Addr: 77d8ca4610, Actor: ^LC[}x{yh]hsnCTy}pht_n}hyC_
+Id: 71, Addr: 77b610d580, Actor: PBM]VB~skw`AfsfwMQ
+Id: 72, Addr: 77ca9a50b0, Actor: R@O_TSxqbqsdubOS
+Id: 73, Addr: 77e1e1c6a0, Actor: M_P\BHP__=???PL
+Id: 74, Addr: 77e1e1b380, Actor: SANYpuvdNA##'NR
+Id: 75, Addr: 77e1e18d40, Actor: ZHGJw{s}lTymv{p}jGKUYOG[
+Id: 76, Addr: 77c7df1be0, Actor: R@OVbqwWbu~qtuOS
+Id: 77, Addr: 77ad5fad20, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 78, Addr: 77a6392b80, Actor: PBM]VB~skw`AfsfwMQ
+Id: 79, Addr: 77a63920e0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 80, Addr: 77a4f850b0, Actor: XJE]{~}n[ynuhE[wwuYh{nEY
+Id: 81, Addr: 77b61065f0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 82, Addr: 77bafcd030, Actor: R@O_TSxqbqsdubOS
+Id: 83, Addr: 77f17f1420, Actor: [IFJwpi|kKpu|F**!K|zvwFZ
+Id: 84, Addr: 77b11ea060, Actor: SANYpuvdNA##'NR
+Id: 85, Addr: 77a472c080, Actor: YKD_~kwtbzyw~DS~zwosXizo~DX
+Id: 86, Addr: 77ca2112c0, Actor: R@OVbqwWbu~qtuOS
+Id: 87, Addr: 77b11e53e0, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 88, Addr: 77b0912900, Actor: [bh`~{Jhdy
+Id: 89, Addr: 77b0912680, Actor: [bh`~{Jhdy
+Id: 90, Addr: 77a65fd580, Actor: PBM]VB~skw`AfsfwMQ
+Id: 91, Addr: 77a45c60a0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 92, Addr: 77a45c5b50, Actor: XJE]{~}n[ynuhE[wwuYh{nEY
+Id: 93, Addr: 77c28f7090, Actor: R@O_TSxqbqsdubOS
+Id: 94, Addr: 77e1e160a0, Actor: O]RA@JRA^LYRN
+Id: 95, Addr: 77e1e10100, Actor: SANYpuvdNA##'NR
+Id: 96, Addr: 77a46c09f0, Actor: [IF]|iuv`x{u|FXttvZkxm|FZ
+Id: 97, Addr: 77a472e830, Actor: UGHT#HVtcxeGex}rtc~{rHT
+Id: 98, Addr: 77b72cb9e0, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 99, Addr: 77ad6c9070, Actor: XJE]{~}n[ynuhE[wwuYh{nEY
+Id: 100, Addr: 77c26c40c0, Actor: R@O_TSxqbqsdubOS
+Id: 101, Addr: 77b72ce680, Actor: O]RA@JRA^LYRN
+Id: 102, Addr: 77b72c0760, Actor: SANYpuvdNA##'NR
+Id: 103, Addr: 77bf3ab890, Actor: [IF]|iuv`x{u|FXttvZkxm|FZ
+Id: 104, Addr: 77ef0eb700, Actor: R@OVbqwWbu~qtuOS
+Id: 105, Addr: 77e1e186e0, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 106, Addr: 77b72150b0, Actor: PBM]VB~skw`AfsfwMQ
+Id: 107, Addr: 77ad6c0650, Actor: PBM]VB~skw`AfsfwMQ
+Id: 108, Addr: 77a6399070, Actor: ^LC[}x{yh]hsnCTy}pht_n}hyC_
+Id: 109, Addr: 77cafe30d0, Actor: R@O_TSxqbqsdubOS
+Id: 110, Addr: 77b72c60a0, Actor: WEJTfft`yaG|sypJDWOJV
+Id: 111, Addr: 77f092c040, Actor: SANYpuvdNA##'NR
+Id: 112, Addr: 77a35b6930, Actor: YKD_~kwtbzyw~DS~zwosXizo~DX
+Id: 113, Addr: 77c5878960, Actor: R@OVbqwWbu~qtuOS
+Id: 114, Addr: 77b72c4d80, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 115, Addr: 77bb044c00, Actor: [bh`~{Jhdy
+Id: 116, Addr: 77c5068580, Actor: [bh`~{Jhdy
+Id: 117, Addr: 77baff50b0, Actor: R@O_TSxqbqsdubOS
+Id: 118, Addr: 77b11ead20, Actor: M_P\BHP__=???PL
+Id: 119, Addr: 77ad5f4d80, Actor: SANYpuvdNA##'NR
+Id: 120, Addr: 77b11eece0, Actor: ZHGJw{s}lTymv{p}jGKUYOG[
+Id: 121, Addr: 77b130c080, Actor: UGHT#HVtcxeGex}rtc~{rHT
+Id: 122, Addr: 77b11e1a80, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 123, Addr: 77bf492180, Actor: [bh`~{Jhdy
+Id: 124, Addr: 77bf491780, Actor: [bh`~{Jhdy
+Id: 125, Addr: 77aa97a880, Actor: [bh`~{Jhdy
+Id: 126, Addr: 77aa97a600, Actor: [bh`~{Jhdy
+Id: 127, Addr: 77bafcc040, Actor: R@O_TSxqbqsdubOS
+Id: 128, Addr: 77b11e3400, Actor: WEJTfft`yaG|sypJDWOJV
+Id: 129, Addr: 77b11eb380, Actor: SANYpuvdNA##'NR
+Id: 130, Addr: 77ef2d2500, Actor: R@OVbqwWbu~qtuOS
+Id: 131, Addr: 77b11ed360, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 132, Addr: 77bafc8080, Actor: R@O_TSxqbqsdubOS
+Id: 133, Addr: 77ad504d80, Actor: O]RA@JRA^LYRN
+Id: 134, Addr: 77ad502da0, Actor: SANYpuvdNA##'NR
+Id: 135, Addr: 77a3cf11e0, Actor: [IF]|iuv`x{u|FXttvZkxm|FZ
+Id: 136, Addr: 77a3cf7120, Actor: UGHT#HVtcxeGex}rtc~{rHT
+Id: 137, Addr: 77ad506d60, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 138, Addr: 77a29fb050, Actor: R@O_TSxqbqsdubOS
+Id: 139, Addr: 77e1e153e0, Actor: [IFJwpi|kKpu|F**!K|zvwFZ
+Id: 140, Addr: 77b11e0dc0, Actor: SANYpuvdNA##'NR
+Id: 141, Addr: 77b0b79a00, Actor: _MBYxmqrd|qxBNmriitszYorsxB^
+Id: 142, Addr: 77ef2de4a0, Actor: R@OVbqwWbu~qtuOS
+Id: 143, Addr: 77b11e60a0, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 144, Addr: 77b1915380, Actor: TFIUy{twbC_ExqzsbyxIU
+Id: 145, Addr: 0
+Id: 146, Addr: 7799974720, Actor: O]RA@JRA^LYRN
+Id: 147, Addr: 7799973a60, Actor: VDKYqxqqKY-Vum{zq`KW
+Id: 148, Addr: 77cf74cae0, Actor: XJE]{~}n[ynuhE[wwuYh{nEY
+Id: 149, Addr: 7799972da0, Actor: SANYpuvdNA##'NR
+Id: 150, Addr: 77ce50e020, Actor: R@O_TSxqbqsdubOS
+Id: 151, Addr: 7793e8e830, Actor: [IF]|iuv`x{u|FXttvZkxm|FZ
+Id: 152, Addr: 77ce9552a0, Actor: R@OVbqwWbu~qtuOS
+
